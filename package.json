@@ -1,0 +1,8 @@
+{
+  "name": "fnhost",
+  "version": "0.0.1",
+  "description": "A Simple Function Server",
+  "main": "src/index.js",
+  "license": "UNLICENCED"
+
+}
